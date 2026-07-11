@@ -185,4 +185,4 @@ Crypto-Trader-Sentiment-Analysis/
 
 ## Author
 
-Bindu Prakash
+Impana R
